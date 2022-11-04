@@ -1,0 +1,14 @@
+h1{
+  font-family: "Merriweather", serif;
+  font-family: "Playfair Display", serif;
+  
+}
+.bgimage {
+  background-image: url("src/xtreme-bg.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  
+}
+  
